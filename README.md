@@ -4,7 +4,7 @@ An intelligent **Flood Rescue AI System** that utilizes **Artificial Intelligenc
 
 ---
 
-# 📖 Overview
+#  Overview
 
 Floods are one of the most destructive natural disasters, affecting millions of people worldwide every year. Rapid identification of flood severity and timely rescue operations are critical for minimizing loss of life and property. However, traditional monitoring methods often rely on manual observations, making the response process slower and less efficient.
 
@@ -24,7 +24,7 @@ The **Flood Rescue AI System** addresses these challenges by leveraging machine 
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 ### Programming Language
 
@@ -63,7 +63,7 @@ The **Flood Rescue AI System** addresses these challenges by leveraging machine 
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```text
 Flood-Rescue-System/
